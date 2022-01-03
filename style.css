@@ -5,4 +5,29 @@ h1{
 }
 p{
     color: brown;
+    text-align:justify;
+    margin: 20px;
+}
+#picA{
+    
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 2px solid yellow;
+}
+#pic2{
+   color: tomato;
+   text-align: center;
+   font-size: x-large;
+  
+}
+#pic2c{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 2px solid yellow;
+
 }
